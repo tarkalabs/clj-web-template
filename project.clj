@@ -12,4 +12,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [lib-noir "0.8.9"]
                  [selmer "0.7.1"]
+                 [com.cemerick/friend "0.2.0"]
+                 [friend-oauth2 "0.1.1"]
+                 [org.clojure/core.cache "0.6.3"]
                  [org.postgresql/postgresql "9.3-1100-jdbc4"]])
